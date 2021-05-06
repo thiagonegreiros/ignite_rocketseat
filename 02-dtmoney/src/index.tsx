@@ -19,6 +19,8 @@ createServer({
         }
       ]
     })
+
+    this.post
   }
 })
 
