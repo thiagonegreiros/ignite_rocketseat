@@ -10,7 +10,7 @@ export function SingInButton() {
   return session ? (
     <button
       type="button"
-      className={styles.sngInButton}
+      className={styles.singInButton}
       onClick={() => signOut()}
     >
       <FaGithub color="#04d361"/>
